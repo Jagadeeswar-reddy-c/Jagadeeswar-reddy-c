@@ -93,10 +93,10 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
-  &emsp;
+<!--   &emsp;
   <a href="#">
   	<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
+  </a> -->
  </p>
 
  ### 👉 Software & Tools
