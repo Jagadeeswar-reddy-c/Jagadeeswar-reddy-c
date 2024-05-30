@@ -25,11 +25,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jagadeeswar-reddy-c&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+![Snake animation](https://raw.githubusercontent.com/Jagadeeswar-reddy-c/Jagadeeswar-reddy-c/output/github-contribution-grid-snake-dark.svg)
+
+
 [![](https://visitcount.itsvg.in/api?id=jagadeeswar-reddy-c&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://raw.githubusercontent.com/{Jagadeeswar-reddy-c}/{Jagadeeswar-reddy-c}/output/github-contribution-grid-snake-dark.svg)
 
 
 ## 🛠️ My Skills
