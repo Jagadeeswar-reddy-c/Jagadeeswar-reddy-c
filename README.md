@@ -119,10 +119,10 @@ const jagadeeswar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jagadeeswar-reddy-c&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadeeswar-reddy-c&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadeeswar-reddy-c&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" width="320"/>
 
 </div>
 
@@ -132,7 +132,7 @@ const jagadeeswar = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jagadeeswar-reddy-c&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jagadeeswar-reddy-c&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
 
 </div>
 
@@ -142,7 +142,7 @@ const jagadeeswar = {
 
 <div align="center">
 
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=jagadeeswar-reddy-c&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Jagadeeswar-reddy-c&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
