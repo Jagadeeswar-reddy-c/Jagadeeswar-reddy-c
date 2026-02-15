@@ -14,7 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chennuru-jagadeeswar-reddy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-006769?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jagadeeswar-reddy-c.github.io/JrPortfolio/)
-[![Profile Views](https://visitcount.itsvg.in/api?id=jagadeeswar-reddy-c&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
