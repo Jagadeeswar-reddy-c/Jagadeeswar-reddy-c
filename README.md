@@ -4,9 +4,11 @@
 
 # I'm **Chennuru Jagadeeswar Reddy**
 
-### 💫 Passionate Developer | Recent CS Graduate | Problem Solver
+### 💫 MSc Computer Science Student | ML Engineer | Systems Builder
 
-*Transforming ideas into elegant code solutions from India 🇮🇳*
+*MSc Computer Science student at Saarland University | Specializing in Python-based data analysis and applied machine learning*
+
+🇮🇳 Based in India | 🎓 IEEE Published Author | 📊 Building intelligent systems with 90%+ model accuracy
 
 ---
 
@@ -22,12 +24,21 @@
 
 ```typescript
 const jagadeeswar = {
-    role: "Software Developer",
-    education: "B.Tech in Computer Science & Engineering",
+    role: "ML Engineer & Systems Builder",
+    education: {
+        current: "MSc Computer Science @ Saarland University",
+        completed: "B.Tech Computer Science & Engineering"
+    },
     location: "India",
-    interests: ["Full Stack Development", "Machine Learning", "Problem Solving"],
-    currentlyLearning: ["Advanced Algorithms", "Cloud Technologies", "AI/ML"],
-    funFact: "I turn coffee into code ☕️ → 💻"
+    specialization: ["Machine Learning", "Data Analysis", "System Design"],
+    achievements: [
+        "IEEE Published Author (Deep Learning Research)",
+        "90%+ Model Accuracy on ML Projects",
+        "10K+ Sensor Readings Processed"
+    ],
+    currentlyLearning: ["Advanced ML Algorithms", "Cloud Technologies", "MLOps"],
+    techFocus: "Python-based data analysis & applied machine learning",
+    funFact: "I turn coffee into intelligent systems ☕️ → 🤖"
 };
 ```
 
@@ -39,27 +50,36 @@ const jagadeeswar = {
 
 ### **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Frontend**
+### **Machine Learning & Deep Learning**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### **Data Science & ML**
+### **Data Science & Analytics**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### **Web & API Development**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Databases & Cloud**
 
@@ -76,6 +96,20 @@ const jagadeeswar = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🛰️ **Automated USGS Satellite Image Downloads** | Automation of geospatial data retrieval for analysis | Python, APIs, Data Processing |
+| 🚗 **Traffic Prediction System** | End-to-end ML pipeline for traffic forecasting | Python, TensorFlow, Data Analysis |
+| 👁️ **SmartVision** | Real-time vehicle counting and analysis system | OpenCV, Deep Learning, Computer Vision |
 
 </div>
 
@@ -128,7 +162,9 @@ const jagadeeswar = {
 
 ### 💬 Let's Connect and Build Something Amazing Together!
 
-**Open to collaborations, opportunities, and interesting projects**
+**Open to collaborations, ML projects, and research opportunities**
+
+*Passionate about creating intelligent systems that make a real-world impact*
 
 Made with ❤️ by Jagadeeswar Reddy
 
