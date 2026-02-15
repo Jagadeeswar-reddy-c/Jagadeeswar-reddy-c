@@ -141,7 +141,7 @@ const jagadeeswar = {
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/Jagadeeswar-reddy-c/Jagadeeswar-reddy-c/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Jagadeeswar-reddy-c/Jagadeeswar-reddy-c/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
