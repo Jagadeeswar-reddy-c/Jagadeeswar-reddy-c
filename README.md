@@ -4,11 +4,11 @@
 
 # I'm **Chennuru Jagadeeswar Reddy**
 
-### 💫 MSc Computer Science Student | ML Engineer | Systems Builder
+### 💫 CS Student | Software Developer | ML Engineer
 
-*MSc Computer Science student at Saarland University | Specializing in Python-based data analysis and applied machine learning*
+*MSc CS student at Saarland University | Building intelligent software systems with Python, ML, and full-stack development*
 
-🇮🇳 Based in India | 🎓 IEEE Published Author | 📊 Building intelligent systems with 90%+ model accuracy
+🇮🇳 Based in India | 🎓 IEEE Published Author | 💻 Software Developer | 📊 90%+ Model Accuracy
 
 ---
 
@@ -24,21 +24,21 @@
 
 ```typescript
 const jagadeeswar = {
-    role: "ML Engineer & Systems Builder",
+    role: "Software Developer & ML Engineer",
     education: {
         current: "MSc Computer Science @ Saarland University",
         completed: "B.Tech Computer Science & Engineering"
     },
     location: "India",
-    specialization: ["Machine Learning", "Data Analysis", "System Design"],
+    specialization: ["Full Stack Development", "Machine Learning", "System Design"],
     achievements: [
         "IEEE Published Author (Deep Learning Research)",
         "90%+ Model Accuracy on ML Projects",
         "10K+ Sensor Readings Processed"
     ],
     currentlyLearning: ["Advanced ML Algorithms", "Cloud Technologies", "MLOps"],
-    techFocus: "Python-based data analysis & applied machine learning",
-    funFact: "I turn coffee into intelligent systems ☕️ → 🤖"
+    techFocus: "Building intelligent software systems with Python, ML, and modern web technologies",
+    funFact: "I turn coffee into code and AI ☕️ → 💻🤖"
 };
 ```
 
@@ -138,11 +138,11 @@ const jagadeeswar = {
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/Jagadeeswar-reddy-c/Jagadeeswar-reddy-c/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Jagadeeswar-reddy-c/Jagadeeswar-reddy-c/output/github-contribution-grid-snake.svg)
 
 </div>
 
