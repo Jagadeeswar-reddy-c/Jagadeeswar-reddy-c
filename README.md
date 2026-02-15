@@ -128,16 +128,6 @@ const jagadeeswar = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jagadeeswar-reddy-c&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
-
-</div>
-
----
-
 ## 🔝 Top Contributions
 
 <div align="center">
