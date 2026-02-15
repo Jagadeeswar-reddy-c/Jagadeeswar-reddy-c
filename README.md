@@ -137,16 +137,6 @@ const jagadeeswar = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/Jagadeeswar-reddy-c/Jagadeeswar-reddy-c/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect and Build Something Amazing Together!
