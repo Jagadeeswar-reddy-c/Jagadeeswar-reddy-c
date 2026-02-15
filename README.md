@@ -119,10 +119,10 @@ const jagadeeswar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" width="320"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jagadeeswar-reddy-c&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=320" alt="Top Languages" width="320"/>
 
 </div>
 
